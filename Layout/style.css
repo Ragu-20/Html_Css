@@ -1,0 +1,34 @@
+body{
+    background-color:rgba(117, 117, 201, 0.581);
+    align-items: center;
+}
+h1{
+    color: #e9f3f0;
+    background-color: rgb(10, 10, 10);
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 5%;
+    bottom: 5%;
+    width: 95vh;
+    height: auto;
+    background-color: #ffffff;
+    position: relative;
+
+}
+#box{
+    display: flex;
+    justify-content: center;
+    background-color: #080808;
+    width: 95vh;
+    height: auto;
+    position: relative;
+}
+#code{
+    width: 50px;
+}
+#button{
+    background-color: rgba(205, 19, 19, 0.186);
+}
